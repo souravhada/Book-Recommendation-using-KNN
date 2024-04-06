@@ -10,8 +10,8 @@ The project is currently under development. The code file with results will be u
 ## Project Structure
 - `book_recommendation.ipynb`: Jupyter Notebook containing the implementation of the recommendation algorithm.
 - `README.md`: This file, providing an overview of the project.
-- `requirements.txt`: List of Python dependencies required to run the project.
+
 
 ## Instructions
 1. Clone or download the repository to your local machine.
-2. Ensure you have Python installed, along with the necessary libraries listed in `requirements.txt`. You can install them using pip:
+2. Ensure you have Python installed, along with the necessary libraries. You can install them using pip:
